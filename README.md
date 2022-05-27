@@ -4,6 +4,12 @@
 ### 개발 언어 / 사용 라이브러리
 SpringBoot, Java, MySQL
 
+### 프로젝트 세팅
+- Java 11
+- SpringBoot 2.6.6
+- Gradle
+- 개발환경 : IntelliJ
+
 ### 멤버
 <table>
   <tbody>
