@@ -3,7 +3,6 @@
 
 ### 개발 언어 / 사용 라이브러리
 SpringBoot, Java, MySQL
-![service](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/04c5ec1f-151a-4946-9241-7c58b8d52b67/Untitled.png)
 
 ### 멤버
 <table>
